@@ -1,3 +1,5 @@
+#Write a Dockerfile to containerize a Laravel application.
+
 # Base image
 FROM php:8.1-fpm
 
